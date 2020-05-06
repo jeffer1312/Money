@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/05/02 14:59:00.823,=W:\projetos delphi\Unit1.pas</Transaction>
+    <Transaction>2020/05/02 14:59:58.089,X:\projetos delphi\Money\form_principal.fmx=W:\projetos delphi\Unit1.fmx</Transaction>
+    <Transaction>2020/05/02 14:59:58.089,X:\projetos delphi\Money\form_principal.pas=W:\projetos delphi\Unit1.pas</Transaction>
+    <Transaction>2020/05/02 15:00:04.823,X:\projetos delphi\Money\MONEY.dproj=W:\projetos delphi\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <PJefferson iOSSimulator="iPhone5"/>
+    <NoProfile Android64="6b9a2829"/>
+  </ActiveMobileDevice>
+</BorlandProject>
